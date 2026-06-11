@@ -1,0 +1,29 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+### Maven ###
+.mvn/
+mvnw
+mvnw.cmd
+
+### IDE ###
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+### Spring Boot ###
+application-local.yml
+application-*.yml
+!application.yml
+
+### OS ###
+.DS_Store
+Thumbs.db
