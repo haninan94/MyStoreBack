@@ -1,0 +1,9 @@
+rootProject.name = "mystore-back"
+
+include(
+    "common",
+    "api-gateway",
+    "user-service",
+    "auth-service",
+    "product-service"
+)
